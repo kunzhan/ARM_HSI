@@ -6,7 +6,7 @@ addpath('libsvm')
 %% Data
 load IndiaP;
 no_train   = round(size(GroundT,1)*0.04);
-% no_train = 1024;
+% no_train = 410;
 
 % load PaviaU
 % no_train   = round(size(GroundT,1)*0.04);
