@@ -5,7 +5,7 @@ If you use these codes, please cite the paper:
   title =   {Albedo Recovery for Hyperspectral Image Classification},
   journal = {Journal of Electronic Imaging},
   year =    {2017},
-  volume =  {},
+  volume =  {26},
   number =  {},
   pages =   {},
   doi =     {}
