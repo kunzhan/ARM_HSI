@@ -1,7 +1,7 @@
 If you use these codes, please cite the paper:
 
 @Article{ZhanJEI2017july,
-  author =  {Zhan, Kun and Wang, Haibo and Xie, Yuange and Zhang, Chutong and Yufang Min},
+  author =  {Zhan, Kun and Wang, Haibo and Xie, Yuange and Zhang, Chutong and Min, Yufang},
   title =   {Albedo Recovery for Hyperspectral Image Classification},
   journal = {Journal of Electronic Imaging},
   year =    {2017},
