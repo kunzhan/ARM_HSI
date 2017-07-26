@@ -6,9 +6,9 @@ If you use these codes, please cite the paper:
   journal = {Journal of Electronic Imaging},
   year =    {2017},
   volume =  {26},
-  number =  {},
-  pages =   {},
-  doi =     {}
+  number =  {4},
+  pages =   {043010},
+  doi =     {http://dx.doi.org/10.1117/1.JEI.26.4.043010}
 }
 
 If you have any questions, Feel free to contact with me. (Email: ice.echo#gmail.com)
